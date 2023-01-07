@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+}
+header{
+    background-image: url('../images/banner/banner1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 808px;
+    text-align: right;
+    border-bottom: 24px;
+}
+
+.header-title{
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    padding-top: 216px;
+    padding-right: 230px;
+    margin-bottom: 24px;
+}
+
+.header-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding-right: 230px;
+    margin-bottom: 32px;
+}
+
+.btn-one{
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0;
+    padding: 21px;
+    margin-right: 230px;
+}
+
+/* My failures part */
+
+.my-failures-list{
+    display: flex;
+    gap: 87px;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.failures-image{
+    margin-top: 131px;
+    margin-bottom: 130px;
+}
+
+.failures-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-top: 370px;
+}
+
+.failures-subtitle{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 16px;
+
+}
+
+.nested-list{
+    list-style-type: none;
+}
+.nested-list-items{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+/* My Plans */
+.plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 50px;
+}
+
+.plan-list{
+    display: flex;
+    gap: 86px;
+    justify-content: center;
+    list-style-type: none;
+    text-align: center;
+}
+
+.plan-list-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.plan-list-subtitle{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+    text-align: center;
+    margin-bottom: 136px;
+}
+
+/* Positive Mindset */
+
+.positive-mindset{
+    margin: 130px 230px 130px 230px;
+    padding: 64px;
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+}
+
+.positive-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.btn-two{
+    padding: 21px;
+    background-color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+    border: 0px;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: #151414;
+}
+
+.footer-list{
+    border: 130px 230px;
+    display: flex;
+    gap: 331px;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.footer-list-one{
+    color: #FFFFFF;
+}
+
+.footer-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin: 130px 668px 16px 230px;
+}
+
+.footer-subtitle{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 16px 331px 24px 230px;
+}
+
+.email{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 24px 632px 16px 230px;
+}
+
+.phone{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 16px 630px 32px 230px;
+}
+
+.footer-nestedlist{
+    margin-left: 230px;
+    margin-bottom: 130px;
+    display: flex;
+    gap: 17px;
+    list-style-type: none;
+}
+
+.subscribe{
+    margin: 130px 431px 31px 0px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.form{
+    margin: 0px 229px 16px 0px;
+    border-color: #FFFFFF;
+    width: 325px;
+
+    background-color: #151414;
+    padding: 21px 70px 21px 21px;
+    border-radius: 10px;
+}
+
+.btn-three{
+    padding: 21px;
+    background-color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+    border: 0px;
+    border-radius: 5px;
+}
+
